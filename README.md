@@ -14,7 +14,7 @@ The Smart Soil system leverages artificial intelligence for pattern recognition 
 fertilizer recommendation tailored to each farmer’s soil condition.
 
 ### AI Reads THe Soil
-Each field gets its own fertilizer prescription--soil profile in, trageted mix out.
+Each field gets its own fertilizer prescription--soil profile in, trageted mix out.\
        **key feature**
             1. **Input:** Soil types, moisture level, and crop data collected from the field.
             2. **Process:** AI maps nutrient gaps and moisture patterns across soil profiles.
