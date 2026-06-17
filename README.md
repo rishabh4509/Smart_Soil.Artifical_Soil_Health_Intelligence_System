@@ -10,9 +10,9 @@ They typically apply uniform fertilizers without understanding soil-specific req
 
 ### AI Solution Overview
 The Smart Soil system leverages artificial intelligence for pattern recognition across different soil types to provide personalized
-fertilizer recommendation tailored to each farmer’s soil condition.\
+fertilizer recommendation tailored to each farmer’s soil condition.
 
-### AI Reads THe Soil\
+### AI Reads THe Soil
 Each field gets its own fertilizer prescription--soil profile in, trageted mix out.\
        **key feature**\
             1. **Input:** Soil types, moisture level, and crop data collected from the field.\
@@ -24,7 +24,7 @@ These tools serve different primary needs depending on the end-user\
 1.**Smallholder Farmers:** Smallholder farmers require simple, highly accessible tools to minimize input costs and maximize yield.\
          **User Interface:** Mobile applications (often with offline capabilities) or toll-free Interactive Voice Response (IVR)                   systems.\
 2.**Agricultural Extension Officers:** Extension officers (such as Krishi Vigyan Kendra staff or state officials) need macro-level data and robust diagnostic tools to support entire communities.\
-         **User Interface:** Web-based geospatial dashboards and analytical applications\
+         **User Interface:** Web-based geospatial dashboards and analytical applications.
 
 
 
